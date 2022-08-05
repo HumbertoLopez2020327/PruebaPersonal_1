@@ -1,0 +1,2 @@
+clase1: Taller
+clase2: Tecnología
